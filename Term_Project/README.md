@@ -3,6 +3,8 @@ This folder contains the two SQL scripts and the entity relationship diagram cre
 The script titled 'Kata-Sule_term-project_part-1' contains the creation of the schema used in the project, while the script titled 'Kata-Sule_term-project_part-2' consists of queries and commands that create the analytical layer, the ETL pipeline as well as the data marts. The entity relationship diagram shows how the tables are connected to each other in the used schema.
 A more detailed description of the project and the used queries can be found in the SQL scripts, however the main goals and steps are also outlined below.
 
+## The Project ##
+
 ### Operational Layer ###
 The dvd_rental schema contains rental data on a DVD rental company having stores in Australia and Canada. The schema has 16 tables which can be seen in the entity relationship diagram below.
 The source of the schema is the following website: <https://dev.mysql.com/doc/index-other.html>.
