@@ -8,7 +8,7 @@ A more detailed description of the project and the used queries can be found in 
 ### Operational Layer ###
 The dvd_rental schema contains rental data on a DVD rental company having stores in Australia and Canada. The schema has 17 tables which can be seen in the entity relationship diagram below. The population table is not present in the original schema, it was added by me.
 The source of the schema is the following website: <https://dev.mysql.com/doc/index-other.html>.
-![alt text](https://github.com/sulekata/Data_Engineering_1/blob/master/Term_Project/er_diagram.png)
+![alt text](https://github.com/sulekata/Data_Engineering_1/blob/master/Term_DE1/er_diagram.png)
 
 ### Analytics Plan ###
 The aim of the analytics is to find out how the counts of rental times vary when focusing on the different aspects of movies the DVD rental company has in its inventory. One of these aspects is the original language and whether the preferences of people differ in different countries when it comes to watching movies in their original languages, while the other aspect is the category and determining which categories are most popular among customers in general. Consequently the structure of the data store is as follows:
